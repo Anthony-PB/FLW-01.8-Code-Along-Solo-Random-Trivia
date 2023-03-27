@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Potta One", cursive;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.triviaBox {
+  border: 2px solid #ffffff;
+  border-radius: 2%;
+  padding: 10px;
+  padding-left: 50px;
+  font-weight: bold;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  border: 2px solid black;
+}
+
+img {
+  height: 400px;
+  display: block;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+div {
+  font-weight: normal;
+}
+
+.result {
+  padding: 10px;
+}
+
+h3 {
+  color: #ff1f62;
+}
